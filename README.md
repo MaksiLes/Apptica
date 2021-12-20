@@ -1,1 +1,1 @@
-# -Apptica
+# Apptica
